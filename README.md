@@ -5,23 +5,23 @@
 * URL  : http://10.12.1.60:31338/
   
 1. How many vulnerabilities have been discovered through the scan? 
-    > Your answer
+    > EE
 2. What is the theme found by wpscan?
-    > Your answer
+    > 2019, 2017, 2016, 2020        
 3. How many plug-ins did the scan find?
-    > Your answer
+    > b
 4. How many users did the scan find?
-    > Your answer
+    > b
 5. What is the password of the user starting with j ?
-    > Your answer
+    > xxxxx
 6. What is the email of the user starting with j ?
-    > Your answer
+    > xxxxx
 7. What is the password of the user starting with a ?
-    > Your answer
+    > xxxxx
 8. What is the email of the user starting with a ?
-    > Your answer
+    > xxxxx
 9. What vulnerability might be of interest to obtain an RCE?
-    > Your answer
+    > xxxxx
 10. If you are an admin, do you need an exploit for an RCE?
     Detail your answer.
-    > Your answer
+    > xxxxx
